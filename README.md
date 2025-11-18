@@ -37,10 +37,6 @@ The application is designed to be persistent:
 5.  **Output:** The Random Forest Classifier uses `predict_proba()` to generate probability scores[cite: 78, 107]. [cite_start]The application then displays the **top 3 predicted diseases with their percentage probabilities**.
 
 
-[Image of machine learning workflow diagram]
-
-<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/f16b7e7a-3fab-49b1-8170-af50339337ff" />
-
 ---
 
 ## 📊 Evaluation Results
