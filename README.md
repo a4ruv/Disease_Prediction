@@ -73,7 +73,7 @@ The project is implemented using two main files:
 * **Vansh Goel** (1000019838) 
 
 **Submitted to:**
-* **Dr. [cite_start]Himani Sharma**, Assistant Professor 
+* **Dr. Himani Sharma**, Assistant Professor 
 
 **University:** DIT University, Dehradun [cite: 6, 17]
 ]**Course:** Bachelor of Technology, Computer Science and Engineering 
